@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvN6uPGipX7DrOx51iQ7IaXo2fN6IdBIi3B4Qw0EIxEbCNJJslj8deNkAFKFKAbY6GWYmAaMYzE4AzNkwSciBg==",
+  "dgSpecHash": "iwxkXYP/kS/6fy/JW/EWp7M8ynyaA3ztUKh9T9SOBk6yM4M7jFrQwBiCxZp02legR554KkRhpLEWqrT81IpPzQ==",
   "success": true,
-  "projectFilePath": "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damia\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\damia\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\UnitTest\\UnitTest.csproj",
+      "projectPath": "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\UnitTest\\obj\\",
+      "outputPath": "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1034,8 +1034,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\BTree_Database\\BTree_Database.csproj": {
-              "projectPath": "D:\\Projekty\\BaseProjects\\Other\\BTree_Database\\BTree_Database\\BTree_Database.csproj"
+            "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\BTree_Database\\BTree_Database.csproj": {
+              "projectPath": "D:\\Projekty\\OtherProjects\\OtherProjects\\BTree_Database\\BTree_Database\\BTree_Database.csproj"
             }
           }
         }
